@@ -11,7 +11,7 @@ Based in Cairo, Egypt. Email: mo.mokhtar004@gmail.com
 ## 🔭 Projects
 - **Learnify** — Courses website (HTML, CSS, Laravel, MySQL). Built: May 2025.  
 - **Supermarket DB** — Inventory & reporting (MS SQL Server).  
-- **Tic-Tac-Toe** — Python UI game.
+- **Learn German App** — Learning app (Flutter).
 
 (See full CV & certifications in my repo / LinkedIn.)
 
@@ -22,7 +22,6 @@ Based in Cairo, Egypt. Email: mo.mokhtar004@gmail.com
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CB3837?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
