@@ -32,7 +32,7 @@ Based in Cairo, Egypt. Email: mo.mokhtar004@gmail.com
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoMokhtarX&show_icons=true&theme=radical)
 
 ---
 
